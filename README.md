@@ -7,7 +7,7 @@
 
 ---
 
-<p>A 11ª edição da Semana OmniStack trouxe como projeto uma aplicação web e mobile utilizada para unir ONGs que tem como foco animais de rua que necessitam de cuidados médicos e pessoas que desejam financeiramente no tratamento destes animais.</p>
+<p>A 11ª edição da Semana OmniStack trouxe como projeto uma aplicação web e mobile utilizada para unir ONGs que tem como foco animais de rua que necessitam de cuidados médicos e pessoas que desejam contribuir financeiramente no tratamento destes animais.</p>
 
 Durante uma semana foi desenvolvida a aplicação FullStack englobando Backend, Frontend e Mobile.
 
