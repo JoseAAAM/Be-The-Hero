@@ -24,7 +24,7 @@ Layout da aplicação no [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX
 
 <table>
   <tr>
-    <th> Aplicação Web </th>
+    <th><h2>Aplicação Web</h2></th>
   </tr>
   <tr>
     <th width="100%">
@@ -32,7 +32,7 @@ Layout da aplicação no [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX
     </th>
   </tr>
    <tr>
-    <th> Aplicação Web </th>
+     <th><h2>Aplicação Mobile</h2></th>
   </tr>
   <tr>
     <th width="100%">
